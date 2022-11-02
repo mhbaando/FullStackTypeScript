@@ -33,3 +33,15 @@ aslan waa javaScript meelo yaryar ayay kaga duwan tahay oo aynu arki doono
 1.1 : waxay kaga duwan tahay waa Static Language oo ah luuqad Illa variable ka typeka u shegto waxba ma shaqaynayaan 
 1.2 : 
 4. faaido iyo khasaare maxay kala leedahay 
+
+
+waxyabaha laga rabo inad haysato 
+
+1.1 : javaScript inaad fahansantahay 
+1.2 : inaad haysato nodejs iyo npm 
+1.3 inaad soo install garaysato Typesript waxanad isticmalaysa 
+npm install -g typescript
+1.4 marka aad compiler garaynayso waa in aad isticmaasha 
+tsc filename ka 
+
+
