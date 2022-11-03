@@ -28,7 +28,10 @@ aslan waa javaScript meelo yaryar ayay kaga duwan tahay oo aynu arki doono
 3. maxay kaga duwan tahay Javascript 
 1.1 : waxay kaga duwan tahay waa Static Language oo ah luuqad Illa variable ka typeka u shegto waxba ma shaqaynayaan 
 1.2 : 
+
 4. faaido iyo khasaare maxay kala leedahay 
+faaidooyinka ay leedahay Typesript waxa kamid ah 
+1.1: waa luuqad static 
 
 
 waxyabaha laga rabo inad haysato 
