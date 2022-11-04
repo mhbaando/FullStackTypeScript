@@ -1,0 +1,8 @@
+"use strict";
+// Union Types waa in aad Variable kagii aad qiimohooda badbadali karto adoo isticmaalaya let keyword sidaan kuso aragnay JavaScript typescript waxay kaliya kuusoo kordhisay inad typeka sheegto tani waxay faaido leedahay marka aad system dhisayso waxa mararka qaar dhacaysa in aad variable kii uga baahantahay inaad laba value oo kala duwan ku kala isticmaali karto adoo meel kale jooga taasina waxa kuu saamaxaya inad marka hore aad soo isticmaasho union type ka kaas oo ad kusoo sheegi karto variable inta DataType ee uu qadanayo isla jeerkaasna meel kasta oo ad jogto inta Type ee uu haysto uunbaad values ka ay qaadanaya siin kartaa tusaale hadaad ugu talo gashay in aad ku kaydiso mar boolean marna number labadaa wax dhaafiisan kuuma ogolanayso Typescript inaad ku shubo hadii aanad ku daba darin midkale oo 3aad aad ayay muhiim u tahay waxa kale oo aan arki doonaa insha allah  TypeAliases iyo Generics oo iyaguna isla shaqadan sii fudaydinaya tanoo kale imika mararka qaar waa la isticmaala laakin Generics ka ayaa aad ugaga xariifsan waana isku shaqo dhawyihiin 90% kiiba . 
+let unionTypes;
+unionTypes = "Cadnaan";
+unionTypes = 24;
+unionTypes = { phone: 443322118899 };
+console.log(unionTypes);
+// imika waxa uu soo dabaca kan ugu dambeeya ee ay Phone ka haysta sababtuna waxkale maaha aslan JavaScript iyo luuqadaha kale waa lamid waxay eegaan variable inta jeer e lasoo celceliyay isagoo isla magac qudha haysta kadib waala excute garaynaya kan ugu dambeeya ayaa la qaadanayaa sida caadiga ahna luuqaduhu xagga ugu saraysa ayay kasoo bilaaban marka la run gareeyo waxa laga yabaa inanad hore u fahmin waxa laga wado sheekadan oo kale aad u yara baadh waxa macquula inaad hesho wado gaaban oo aad ku fahmi karto eh. 

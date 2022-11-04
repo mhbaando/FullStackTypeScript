@@ -44,3 +44,19 @@ console.log(Magacyo.shift());
 console.log(Magacyo.unshift());
 // waxa lamid ah Slice
 console.log(Magacyo.slice());
+
+
+// Hadaba sidoo kale Arrays ka marka aad joogto String qudha laguma isticmaalo waxaad rabtaa values kala duwan inaad u dhiibto 
+// Typescript waxay isticmaasha sida tan 
+
+let arrays:[string,number,boolean] = ['cadaani',44,true];
+console.log(arrays);
+// hal cillad ayaa jiraysa oo ah inaanad ku samayn karin string's badan marka sidan ay noqoto 
+// tusaale kale oo inoo sahli kara aan eegno 
+let arrays1:[string,string,string,number,number,boolean,boolean] = ['nadiira','maxamed','yoonis',23,4433221155,true,false];
+console.log(arrays1);
+
+
+// hadaba typescript marka la joogo sidan inama anfacayso waxaan dhigan doonaa hab ka fudud oo kana wanagsan 
+// aslan JavaScript Arrayska Values kala duduwan ayaad halmar ku shubi karta dhawrjeed inka badanna waad soo celcelin kartaa 
+// laakin Typescript waa Sensitive way ku ilaalinaysa qaladadka ad glayso oo dhan ayay aad uga fiirsanaysaa markaa Typescipt waa luuqad aan innaba caadi ahayn oo TypeSafety leh.
