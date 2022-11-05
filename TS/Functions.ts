@@ -27,6 +27,7 @@ let arrowFunction = (users:string)=>{
 console.log(arrowFunction(users));
 
 // Anonymous Functions
+// 
 
 
 

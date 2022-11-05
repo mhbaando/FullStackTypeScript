@@ -23,6 +23,7 @@ let arrowFunction = (users) => {
 };
 console.log(arrowFunction(users));
 // Anonymous Functions
+// 
 // Function markaad samaynayso maxaa lagaga baahanyahay: 
 // tusaale ahaan Declaration Function ka 
 // Function Keyword: ayaad ku bilaabaysa 

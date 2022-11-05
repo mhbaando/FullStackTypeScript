@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mohamedabdiahmed/FullStackTypeScript/issues"
   },
-  "homepage": "https://github.com/mohamedabdiahmed/FullStackTypeScript#readme"
+  "homepage": "https://github.com/mohamedabdiahmed/FullStackTypeScript#readme",
+  "dependencies": {
+    "ts-form-validation": "^2.2.0"
+  }
 }
