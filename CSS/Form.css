@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: tomato;
+}
+
+form {
+  box-shadow: 2px 2px 12px gray;
+  border: 0;
+  background-color: white;
+  border: 1px solid gray;
+  margin: 0 auto;
+  width: 400px;
+  padding: 1rem;
+  transform: translateY(1rem);
+  justify-content: center;
+  text-align: center;
+  transition: ease all 0.9s;
+  cursor: pointer;
+}
+
+form:hover {
+  scale: 1.1;
+  transition: ease all 0.9s;
+}
+
+input {
+  padding: 5px;
+  margin: 5px;
+  width: 100%;
+}
+.flex {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+select {
+  margin-top: 1rem;
+}
+.file {
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  transform: translateX(5rem);
+}
+button {
+  border: 0;
+  width: 100px;
+  padding: 5px;
+}
+.send {
+  background-color: seagreen;
+  color: white;
+  font-size: 18px;
+}
+
+.reset {
+  background-color: orange;
+  color: white;
+  font-size: 18px;
+}
+
+.Close {
+  background-color: red;
+  color: white;
+  font-size: 18px;
+}
