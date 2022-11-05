@@ -1,0 +1,20 @@
+{
+  "name": "fullstacktypescript",
+  "version": "1.0.0",
+  "description": "waxa uu ka kooban yahay casharo badan iyo sidoo kale projects badan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedabdiahmed/FullStackTypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedabdiahmed/FullStackTypeScript/issues"
+  },
+  "homepage": "https://github.com/mohamedabdiahmed/FullStackTypeScript#readme"
+}
