@@ -1,0 +1,32 @@
+TypeScript: 
+1. Hello World
+2. Variables 
+3. Datatypes : primtives = string, number,boolean, null, undefined / non-primtives: object,Array
+4. Conditions 
+5. Arrays 
+6. Functions: 
+#declaration Function, 
+#Arrow Function,
+#Closure Function,
+#recursive function,
+#Anonymous Function, 
+7. Generics 
+8. Union Types and Aliases
+9. Classes 
+10.objects 
+11. loops: 
+#for ,
+# for in ,
+# for off ,
+# do,
+# while
+13. nameConvertions and TypeCases
+14. let and Const 
+15. interfaces 
+15. Type 
+16. statifies
+17. operators: arthimatic operators,
+# logical operators ,
+# comparison operators,
+# assigment operators
+18. 
