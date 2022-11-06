@@ -18,3 +18,14 @@ if(magac === "Maxamed"){
     // yacnii hadii labada magac ee sare waxka baxsan soo galaan usheeg mahayno dheh 
     console.log(`waanu ka xunnahay Mahayno ${magac}`);
 };
+
+// Terinary Operators : 
+// waa nooc kamid ah conditions ka ay Typescript isticmaasho luuqadaha kalena way la leeyihiin 
+// waxayna inta badan la xidhiidha marka go,aamo la qaadanayo oo kala doorasho meesha timaado 
+function get(isActive:boolean){
+    return(isActive? "yes" : "No")
+}
+console.log(get(true));
+// Kan markaa habkan ayuu u shaqeeyaa terinary Operator waxana la adeegsada calamada QuesionMark;
+ 
+

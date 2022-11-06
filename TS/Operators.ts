@@ -65,3 +65,5 @@ let AssigmentOperator:number = 30 * 2;
 let AssigmentOperator1:number = 20 * AssigmentOperator;
 console.log(AssigmentOperator1);
 
+
+

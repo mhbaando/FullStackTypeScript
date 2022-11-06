@@ -9,7 +9,7 @@
 // waxa jira noocyyo kala duwan oo functions ah oo ay luuqadani adeegsato waxana kamid ah 
 
 // Declaration Function 
-// function kan ayaa loo yaqaana Declration 
+// function kan ayaa loo yaqaana Function Declration 
 
 function add(num1:number , num2:number){
     return num1 + num2
@@ -17,7 +17,7 @@ function add(num1:number , num2:number){
 console.log(add(2,2));
 
 // Arrow Function
-// arrow Fucntion :waa noockamida Functions ka kaas oo aan lagu bilaabaynin keywordka Function basle waxa uu leeyahay wax la idhaah Fat arrow (=>) balse waxa lagu dhex kaydinaya Variable tusaale ahaan sidan: 
+// arrow Fucntion :waa noockamida Functions ka kaas oo aan lagu bilaabaynin keywordka Function balse waxa uu leeyahay wax la idhaah Fat arrow (=>) balse waxa lagu dhex kaydinaya Variable tusaale ahaan sidan: 
 // waxaan samaysanaynaa object ama arrays kaas oo aan ku dhex isticmali karno Arrow function ka tusaale : 
 let users:string = "Ahmed ali"
 let arrowFunction = (users:string)=>{
@@ -27,7 +27,17 @@ let arrowFunction = (users:string)=>{
 console.log(arrowFunction(users));
 
 // Anonymous Functions
-// 
+let ages:number = 30;
+let anonymousFunction = function(){
+    if(ages < 40 ){
+        console.log(`dhalin yar ayaad tahay ${ages}`)
+    }else{
+        console.log(`Waad wayn tahay Macasalama : ${ages} jir`)
+    }
+}
+anonymousFunction();
+
+
 
 
 
